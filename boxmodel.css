@@ -1,0 +1,38 @@
+#blockindustry {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-top-left-radius: 8px;
+    border-width: 2px;
+    border: 2px dashed black;
+    margin: 8px;
+    padding: 8px;
+    text-align: center;
+}
+
+.sam {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-width: 2px;
+    border: 2px dotted black;
+    margin: 8px;
+    text-align: center;
+}
+
+#GO {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-width: 2px;
+    border: 2px solid black;
+    margin: 8px;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: larger;
+    background-color: green;
+    text-align: center;
+}
